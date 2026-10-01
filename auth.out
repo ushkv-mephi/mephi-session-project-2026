@@ -1,0 +1,9 @@
+### access-local.conf
+-:(curators):LOCAL
++:ALL:ALL
+
+### pam_access in /etc/pam.d/login
+account    required     pam_access.so nodefgroup accessfile=/etc/security/access-local.conf
+
+### PASS_MAX_DAYS
+PASS_MAX_DAYS	90
