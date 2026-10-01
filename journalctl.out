@@ -1,0 +1,4 @@
+сен 30 21:10:03 mephi-2026.domain.local systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+сен 30 21:10:03 mephi-2026.domain.local nginx[1198]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+сен 30 21:10:03 mephi-2026.domain.local nginx[1198]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+сен 30 21:10:03 mephi-2026.domain.local systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
